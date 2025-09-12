@@ -1,0 +1,3 @@
+Hello my name is faith Jerop
+This is my first time writing a code on file handling.
+This is the input text ,however ,the ouput code will be displayed in all capital letters!
